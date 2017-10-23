@@ -1,0 +1,10 @@
+E:\TINGGO\Lectio\Lectio\bin\Debug\Lectio.exe.config
+E:\TINGGO\Lectio\Lectio\bin\Debug\Lectio.exe
+E:\TINGGO\Lectio\Lectio\bin\Debug\Lectio.pdb
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.csprojResolveAssemblyReference.cache
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.Form1.resources
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.Properties.Resources.resources
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.csproj.GenerateResource.Cache
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.csproj.CoreCompileInputs.cache
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.exe
+E:\TINGGO\Lectio\Lectio\obj\Debug\Lectio.pdb

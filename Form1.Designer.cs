@@ -1,11 +1,17 @@
 ﻿namespace Lectio
 {
+    using System.Diagnostics;
+
     partial class Form1
     {
         /// <summary>
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
+
+        private void Form1_FormClosed(object sender, System.ComponentModel.CancelEventArgs e) {
+        }
+
 
         /// <summary>
         /// Clean up any resources being used.
@@ -20,7 +26,7 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+       #region Windows Form Designer generated code
 
         /// <summary>
         /// Required method for Designer support - do not modify
@@ -37,6 +43,7 @@
             this.ClientSize = new System.Drawing.Size(934, 349);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
